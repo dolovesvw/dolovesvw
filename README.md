@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolovesvw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-- ⚡ I am interested in **Full-Stack Development and Game Development**
+- ⚡ I am interested in **Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [website not yet ready](website not yet ready)
 
