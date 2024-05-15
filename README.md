@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [website not yet ready](website not yet ready)
 
-- 🌱 I’m currently learning **Docker, ____ Stack**
+- 🌱 I’m currently learning **Docker, still deciding on what stack but looking at MERN Stack**
 
 - 📫 How to reach me **mail4dolovesv@gmail.com**
 
