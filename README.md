@@ -1,5 +1,9 @@
 <h1 align="center">Welcome,my name is Vsevolod Steshenko</h1>
-<h3 align="center">I am a undergraduate CS student at Drexel University.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="dolovesvw" /> </p>
+<h3 align="center">I am a undergraduate CS student at Drexel University.</h3> <p align="left"> 
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="dolovesvw" /> </p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dolovesvw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
