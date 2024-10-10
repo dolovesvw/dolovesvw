@@ -4,6 +4,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dolovesvw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolovesvw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+![](https://github-readme-stats.vercel.app/api?username=dolovesvw&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dolovesvw&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 - ⚡ I am interested in **Full-Stack Development**
@@ -54,3 +57,12 @@
 <br clear="both">
 
 <div align="center">
+
+
+---
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=dolovesvw&icon=5&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
