@@ -2,8 +2,6 @@
 <h3 align="center">I am a undergraduate CS student at Drexel University.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="dolovesvw" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dolovesvs" target="blank"><img src="https://img.shields.io/twitter/follow/dolovesvs?logo=twitter&style=for-the-badge" alt="dolovesvs" /></a> </p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dolovesvw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolovesvw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
