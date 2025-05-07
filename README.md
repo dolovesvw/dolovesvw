@@ -69,6 +69,23 @@
 
 I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passionate about Full-Stack Development.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dolovesvw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolovesvw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+- ⚡ I am interested in **Machine Learning** and **Cybersecurity**
+
+- 👨‍💻 All of my projects are available at [website not yet ready](website not yet ready)
+
+- 🌱 I’m currently learning **Svelte and Learning a bit more in depth about Python and Java**
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif"  />
+</div>
+
 ## 🔧 Technical Skills
 
 ### Languages & Frameworks
@@ -84,6 +101,7 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -94,10 +112,14 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 🌱 Currently Learning
-- Docker in depth
-- MERN Stack (MongoDB, Express, React, Node.js)
+- Still experimenting with Docker
+- Svelte Kit and Tailwind as CSS framework and still expimenting with UI libraries
 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-mail4dolovesv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail4dolovesv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsevolod-steshenko)
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="dolovesvw" /> </p>
+</div>
 
