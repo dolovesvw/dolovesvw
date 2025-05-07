@@ -58,11 +58,6 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
 [![Email](https://img.shields.io/badge/Email-mail4dolovesv@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail4dolovesv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsevolod-steshenko)
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="dolovesvw" /> </p>
-</div>
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
