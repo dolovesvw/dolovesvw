@@ -61,4 +61,3 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dolovesvw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
----
