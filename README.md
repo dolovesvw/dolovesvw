@@ -17,11 +17,14 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolovesvw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-- ⚡ I am interested in **Machine Learning** and **Cybersecurity**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dolovesvw...)](https://github.com/dolovesvw)
 
-- 👨‍💻 All of my projects are available at [website not yet ready](website not yet ready)
 
-- 🌱 I’m currently learning **Svelte and Learning a bit more in depth about Python and Java**
+- ⚡ I'm particularly interested in Machine Learning and looking into Cybersecurity.
+
+- 👨‍💻 My portfolio site is coming soon!
+
+- 🌱 I'm currently learning SvelteKit, as well as deepening my knowledge of Python and Java.
 
 <br clear="both">
 
@@ -51,7 +54,7 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 🌱 Currently Learning
-- Still experimenting with Docker
+- Continuing to explore my use of Docker for containerization and deployments.
 - Svelte Kit and Tailwind as CSS framework and still expimenting with UI libraries
 
 ## 📫 How to Reach Me
