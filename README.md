@@ -17,9 +17,6 @@ I'm Vsevolod Steshenko, an undergraduate CS student at Drexel University passion
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolovesvw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dolovesvw...)](https://github.com/dolovesvw)
-
-
 - ⚡ I'm particularly interested in Machine Learning and looking into Cybersecurity.
 
 - 👨‍💻 My portfolio site is coming soon!
